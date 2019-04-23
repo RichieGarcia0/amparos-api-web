@@ -1,0 +1,30 @@
+{
+  "name": "amparos-api-web",
+  "version": "1.0.0",
+  "description": "Application Programming Interface de Amparos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichieGarcia0/amparos-api-web.git"
+  },
+  "keywords": [
+    "amparos"
+  ],
+  "author": "Edgar Ricardo García",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichieGarcia0/amparos-api-web/issues"
+  },
+  "homepage": "https://github.com/RichieGarcia0/amparos-api-web#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
